@@ -19,7 +19,7 @@ Website portofolio personal bertema luar angkasa (*Outer Space Dark Theme*) deng
 
 3. **Hero Section (Halaman Utama):**
    - Badge status: `STATUS: SIAP MENJELAJAH PELUANG BARU`.
-   - Nama besar dengan gradasi warna kosmik: **ALEXANDER PRATAMA**.
+   - Nama besar dengan gradasi warna kosmik: **AZZA KHAIRUL IMAM**.
    - Efek teks mengetik sendiri bergantian (*Typewriter Effect*):
      - `Junior Web Developer`
      - `Frontend Specialist`
